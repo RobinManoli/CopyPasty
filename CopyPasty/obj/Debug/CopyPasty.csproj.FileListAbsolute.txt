@@ -1,0 +1,13 @@
+c:\users\r\documents\visual studio 2015\Projects\CopyPasty\CopyPasty\bin\Debug\CopyPasty.exe.config
+c:\users\r\documents\visual studio 2015\Projects\CopyPasty\CopyPasty\bin\Debug\CopyPasty.exe
+c:\users\r\documents\visual studio 2015\Projects\CopyPasty\CopyPasty\bin\Debug\CopyPasty.pdb
+c:\users\r\documents\visual studio 2015\Projects\CopyPasty\CopyPasty\obj\Debug\CopyPasty.csprojResolveAssemblyReference.cache
+c:\users\r\documents\visual studio 2015\Projects\CopyPasty\CopyPasty\obj\Debug\CopyPasty.Form1.resources
+c:\users\r\documents\visual studio 2015\Projects\CopyPasty\CopyPasty\obj\Debug\CopyPasty.Properties.Resources.resources
+c:\users\r\documents\visual studio 2015\Projects\CopyPasty\CopyPasty\obj\Debug\CopyPasty.csproj.GenerateResource.Cache
+c:\users\r\documents\visual studio 2015\Projects\CopyPasty\CopyPasty\obj\Debug\CopyPasty.exe
+c:\users\r\documents\visual studio 2015\Projects\CopyPasty\CopyPasty\obj\Debug\CopyPasty.pdb
+C:\Users\r\Documents\Visual Studio 2015\Projects\CopyPasty\CopyPasty\bin\Debug\CopyPasty.exe.manifest
+C:\Users\r\Documents\Visual Studio 2015\Projects\CopyPasty\CopyPasty\bin\Debug\CopyPasty.application
+C:\Users\r\Documents\Visual Studio 2015\Projects\CopyPasty\CopyPasty\obj\Debug\CopyPasty.exe.manifest
+C:\Users\r\Documents\Visual Studio 2015\Projects\CopyPasty\CopyPasty\obj\Debug\CopyPasty.application
